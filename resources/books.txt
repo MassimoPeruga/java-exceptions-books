@@ -1,0 +1,2 @@
+{Titolo= '1', Numero pagine= 1, Scrittore= '1', Editore= '1'}
+{Titolo= '2', Numero pagine= 2, Scrittore= '2', Editore= '2'}
